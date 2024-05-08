@@ -23,7 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soner-k&show_icons=true&locale=en&layout=compact" alt="soner-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soner-k&show_icons=true&locale=en&theme=dracula" alt="soner-k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soner-k&" alt="soner-k" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soner-k&show_icons=true&locale=en&theme=dracula" alt="soner-k" /></p>
 
