@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soner-k&label=Profile%20views&color=0e75b6&style=flat" alt="soner-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soner-k" alt="soner-k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soner-k&theme=dracula" alt="soner-k" /></a> </p>
 
 - 🔭 I’m currently working on [leetcode problems](https://github.com/Soner-K/LeetCodeSolved)
 
-- 🌱 I’m currently learning **data structures, algorithms and how to code a minishell !**
+- 🌱 I’m currently learning **C, and more precisely data structures, algorithms and how to code a minishell !**
 
 - 📫 How to reach me **soner.karakus.42paris@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soner-k&show_icons=true&locale=en&layout=compact" alt="soner-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soner-k&show_icons=true&locale=en" alt="soner-k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soner-k&show_icons=true&locale=en&theme=dracula" alt="soner-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soner-k&" alt="soner-k" /></p>
 
