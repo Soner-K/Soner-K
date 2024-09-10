@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soner-k&theme=dracula" alt="soner-k" /></a> </p>
 
-- 🔭 I’m currently working on [leetcode problems](https://github.com/Soner-K/LeetCodeSolved)
+- 🔭 I’m currently working on [minishell !](https://github.com/Soner-K/minishell)
 
 - 🌱 I’m currently learning **C, and more precisely data structures, algorithms and how to code a minishell !**
 
